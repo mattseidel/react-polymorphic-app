@@ -1,9 +1,9 @@
-import React from 'react'
+import { Box } from './components/Box'
 
 const App = () => {
   return (
     <main>
-      <h1 className="3xl text-blue-600">hello world</h1>
+      <Box >hello world</Box>
     </main>
   )
 }
